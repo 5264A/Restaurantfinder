@@ -45,7 +45,8 @@ dependencies:
   firebase_storage:
   get:
   images_picker:
-
+  video_thumbnail:
+  dotted_border:
 
 dev_dependencies:
   flutter_test:
@@ -71,10 +72,55 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-   - assets/mail.png
-   - assets/lock.png
-   - assets/google.png
-   - assets/facebook.png
+    - assets/images/mainicon.png
+    - assets/mail.png
+    - assets/lock.png
+    - assets/google.png
+    - assets/fb.png
+    - assets/gallery.png
+    - assets/celender.png
+    - assets/messagelight.png
+    - assets/messagedark.png
+    - assets/pluslight.png
+    - assets/plusdark.png
+    - assets/profilelight.png
+    - assets/profiledark.png
+    - assets/4DotIcon.png
+    - assets/arrowDown.png
+    - assets/cloudstorage.png
+    - assets/location.png
+    - assets/#.png
+    - assets/time.png
+    - assets/search.png
+    - assets/repeat.png
+    - assets/dollarLogo.png
+    - assets/cloudstorageblack.png
+    - assets/cameraa.png
+    - assets/menu.png
+    - assets/edit.png
+    - assets/new.png
+    - assets/purse.png
+    - assets/message.png
+    - assets/bell.png
+    - assets/save.png
+    - assets/rightt.png
+    - assets/homeblack.png
+    - assets/homewhite.png
+    - assets/locat.png
+    - assets/leftarrow.png
+    - assets/bob.png
+    - assets/creditcard.png
+    - assets/wrong.png
+    - assets/paypal.png
+    - assets/Ellipse 984.png
+    - assets/Ellipse 985.png
+    - assets/Ellipse 986.png
+    - assets/heart.png
+    - assets/peoplemessage.png
+    - assets/sendmessage.png
+    - assets/clander.png
+    - assets/threedots.png
+    - assets/gallery.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
